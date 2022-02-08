@@ -39,5 +39,3 @@ terraform
 
 # Go stuff
 vendor/*
-go.mod
-go.sum
