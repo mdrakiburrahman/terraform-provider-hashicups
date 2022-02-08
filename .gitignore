@@ -36,3 +36,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 terraform
+
+# Go stuff
+vendor/*
+go.mod
+go.sum
