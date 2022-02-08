@@ -6,6 +6,7 @@ First, import go dependencies fresh:
 ```shell
 # Create empty go.mod file
 go mod init terraform-provider-hashicups
+
 # Create vendor directory for downloading dependencies
 go mod vendor
 ```
