@@ -3,6 +3,7 @@
 ## Test sample configuration
 
 First, import go dependencies fresh:
+
 ```shell
 # Create empty go.mod file
 go mod init terraform-provider-hashicups
